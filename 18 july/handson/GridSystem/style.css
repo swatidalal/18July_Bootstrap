@@ -1,0 +1,25 @@
+.demo-content{
+    padding: 15px;
+    font-size: 18px;
+    background: #dbdfe5;
+    margin-bottom: 15px;
+   }
+    .demo-content.bg-alt{
+    background: #abb1b8;
+    }
+    p{
+        padding: 50px;
+        font-size: 32px;
+        font-weight: bold;
+        text-align: center;
+        background: #dbdfe5;
+    }
+    .main-content{
+		min-height: 230px;
+        background: #dbdfe5;
+    }
+    .sidebar-content{
+        min-height: 100px;
+        margin-bottom: 30px;
+        background: #b4bac0;
+    }
